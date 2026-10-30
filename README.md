@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst with hands-on experience turning raw business data into decision-ready insights for account managers and executive stakeholders. Skilled in Advanced Excel, SQL, Power BI, Python, Machine Learning and Gen AI. Background in technical presales from Aucotec India brings strong stakeholder communication and the ability to translate data findings into business impact. Currently upskilling in data science through AccioJob.
+Data Analyst with hands-on experience turning raw business data into decision-ready insights for account managers and executive stakeholders. Skilled in Advanced Excel, SQL, Power BI, Python, Machine Learning and Gen AI. Background in technical presales from Aucotec India brings strong stakeholder communication and the ability to translate data findings into business impact.
 
 
 ## 🌐 Socials:
